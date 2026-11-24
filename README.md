@@ -1,6 +1,6 @@
 # Predicting Online News Popularity
 
-Group project for the course Machine Learning ([university]). Team of two.
+Group project for the course Machine Learning (University of Amsterdam). In collaboration with Xanthos Kekkos.
 
 Can the popularity of a news article be predicted from information available before it is published? This project classifies articles as popular or unpopular, uses clustering to look for natural groups of articles, and explains the best model with SHAP.
 
